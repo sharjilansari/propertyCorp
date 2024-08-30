@@ -41,13 +41,13 @@ interface Data {
   amenities: string[];
 }
 
-interface DataObj{
-  data: Data[]
-}
+// interface DataObj{
+//   data: Data[]
+// }
 
 let localCheckoutData: Data[] = [] 
 
-export default function CardWithForm(props: {data: {data: DataObj}, buttonDesc: string }) {
+export default function CardWithForm(props: {data: Data[], buttonDesc: string }) {
   // console.log("Card",props.data);
   // const receivedData: Data[] = props.data ;
   const [receivedData, setReceivedData] = useState<Data[]>(props.data);
