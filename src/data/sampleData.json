@@ -1,0 +1,306 @@
+{
+    "data":[
+        {
+          "id": 1,
+          "images": [
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468729432.jpg?k=7b2cefa314b7b8da9daa4b74fd9dee76bd4fb205ee789bf32493764f8ebee3bf&o=&hp=1",
+            "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fd2d90100679207.5f0e10ffc2a30.jpg",
+            "https://media-cdn.tripadvisor.com/media/vr-splice-j/09/ac/55/1c.jpg"
+          ],
+          "title": "Cozy Cottage",
+          "description": "A charming and cozy cottage located near the countryside.",
+          "price": 120000,
+          "location": "Countryville, TX",
+          "price_range": "$100,000 - $150,000",
+          "bedrooms": 3,
+          "amenities": ["Fireplace", "Garden", "Garage"]
+        },
+        {
+          "id": 2,
+          "images": [
+            "https://homeadore.com/wp-content/uploads/2019/02/010-modern-apartment-by-hi-light-architects.jpg",
+            "https://st.hzcdn.com/simgs/pictures/living-rooms/strata-nick-leith-smith-architecture-design-img~6e91508c0347ef05_14-4776-1-c5955c9.jpg",
+            "https://www.google.com/url?sa=i&url=https%3A%2F%2Farchello.com%2Fproject%2Fmodern-apartment-exterior-design&psig=AOvVaw31y8GRtBkgjyBgriDU69eX&ust=1724428149698000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJC0ts35iIgDFQAAAAAdAAAAABAZ"
+          ],
+          "title": "Modern Apartment",
+          "description": "A sleek, modern apartment in the heart of the city.",
+          "price": 250000,
+          "location": "Downtown, NY",
+          "price_range": "$200,000 - $300,000",
+          "bedrooms": 2,
+          "amenities": ["Gym", "Pool", "24/7 Security"]
+        },
+        {
+          "id": 3,
+          "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtxvrgJOj6I7cnXdEJ_hhjsCKM3fLkjPJ7w&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBoX_9Xgilop19JC8I3Ozomcq0P97DeVuvYA&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsZ7VL2fbEA0MSJhKz7rqRN3APCsTPhUS0PA&s"
+          ],
+          "title": "Luxury Villa",
+          "description": "A luxurious villa with stunning ocean views.",
+          "price": 750000,
+          "location": "Seaside, CA",
+          "price_range": "$700,000 - $800,000",
+          "bedrooms": 5,
+          "amenities": ["Infinity Pool", "Private Beach", "Home Theater"]
+        },
+        {
+          "id": 4,
+          "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuse7ze9PE8mlD99UQNJfXQpOdItoAp4O8LQ&s",
+            "https://st.hzcdn.com/simgs/pictures/kitchens/remodeled-suburban-family-home-interior-changes-home-design-and-consulting-img~5951b0090520b24e_4-1455-1-370852f.jpg",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/240194347.jpg?k=928d4b837759709044434f80854b03a640cc37936b0f58e8e3a26ce11a6019c1&o=&hp=1"
+          ],
+          "title": "Suburban Family Home",
+          "description": "A spacious family home in a quiet suburban neighborhood.",
+          "price": 350000,
+          "location": "Suburbia, IL",
+          "price_range": "$300,000 - $400,000",
+          "bedrooms": 4,
+          "amenities": ["Backyard", "Basement", "Playroom"]
+        },
+        {
+          "id": 5,
+          "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_zwRXjaNTHM7DfkBRWsxZm4y9homd_9bMA&s",
+            "https://st.hzcdn.com/simgs/pictures/dining-rooms/urban-loft-ck-interior-design-img~6d61140b0b5b9446_4-9783-1-62c3119.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxiHx4VopBC4yVozyW81StOhZp3xeRXOKKaA&s"
+          ],
+          "title": "Urban Loft",
+          "description": "A trendy loft with an industrial design in the city center.",
+          "price": 450000,
+          "location": "Metro City, FL",
+          "price_range": "$400,000 - $500,000",
+          "bedrooms": 1,
+          "amenities": ["Rooftop Terrace", "Open Floor Plan", "High Ceilings"]
+        },
+        {
+            "id": 1,
+            "images": [
+              "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468729432.jpg?k=7b2cefa314b7b8da9daa4b74fd9dee76bd4fb205ee789bf32493764f8ebee3bf&o=&hp=1",
+              "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fd2d90100679207.5f0e10ffc2a30.jpg",
+              "https://media-cdn.tripadvisor.com/media/vr-splice-j/09/ac/55/1c.jpg"
+            ],
+            "title": "Cozy Cottage",
+            "description": "A charming and cozy cottage located near the countryside.",
+            "price": 120000,
+            "location": "Countryville, TX",
+            "price_range": "$100,000 - $150,000",
+            "bedrooms": 3,
+            "amenities": ["Fireplace", "Garden", "Garage"]
+          },
+          {
+            "id": 2,
+            "images": [
+              "https://homeadore.com/wp-content/uploads/2019/02/010-modern-apartment-by-hi-light-architects.jpg",
+              "https://st.hzcdn.com/simgs/pictures/living-rooms/strata-nick-leith-smith-architecture-design-img~6e91508c0347ef05_14-4776-1-c5955c9.jpg",
+              "https://www.google.com/url?sa=i&url=https%3A%2F%2Farchello.com%2Fproject%2Fmodern-apartment-exterior-design&psig=AOvVaw31y8GRtBkgjyBgriDU69eX&ust=1724428149698000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJC0ts35iIgDFQAAAAAdAAAAABAZ"
+            ],
+            "title": "Modern Apartment",
+            "description": "A sleek, modern apartment in the heart of the city.",
+            "price": 250000,
+            "location": "Downtown, NY",
+            "price_range": "$200,000 - $300,000",
+            "bedrooms": 2,
+            "amenities": ["Gym", "Pool", "24/7 Security"]
+          },
+          {
+            "id": 3,
+            "images": [
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtxvrgJOj6I7cnXdEJ_hhjsCKM3fLkjPJ7w&s",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBoX_9Xgilop19JC8I3Ozomcq0P97DeVuvYA&s",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsZ7VL2fbEA0MSJhKz7rqRN3APCsTPhUS0PA&s"
+            ],
+            "title": "Luxury Villa",
+            "description": "A luxurious villa with stunning ocean views.",
+            "price": 750000,
+            "location": "Seaside, CA",
+            "price_range": "$700,000 - $800,000",
+            "bedrooms": 5,
+            "amenities": ["Infinity Pool", "Private Beach", "Home Theater"]
+          },
+          {
+            "id": 4,
+            "images": [
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuse7ze9PE8mlD99UQNJfXQpOdItoAp4O8LQ&s",
+              "https://st.hzcdn.com/simgs/pictures/kitchens/remodeled-suburban-family-home-interior-changes-home-design-and-consulting-img~5951b0090520b24e_4-1455-1-370852f.jpg",
+              "https://cf.bstatic.com/xdata/images/hotel/max1024x768/240194347.jpg?k=928d4b837759709044434f80854b03a640cc37936b0f58e8e3a26ce11a6019c1&o=&hp=1"
+            ],
+            "title": "Suburban Family Home",
+            "description": "A spacious family home in a quiet suburban neighborhood.",
+            "price": 350000,
+            "location": "Suburbia, IL",
+            "price_range": "$300,000 - $400,000",
+            "bedrooms": 4,
+            "amenities": ["Backyard", "Basement", "Playroom"]
+          },
+          {
+            "id": 5,
+            "images": [
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_zwRXjaNTHM7DfkBRWsxZm4y9homd_9bMA&s",
+              "https://st.hzcdn.com/simgs/pictures/dining-rooms/urban-loft-ck-interior-design-img~6d61140b0b5b9446_4-9783-1-62c3119.jpg",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxiHx4VopBC4yVozyW81StOhZp3xeRXOKKaA&s"
+            ],
+            "title": "Urban Loft",
+            "description": "A trendy loft with an industrial design in the city center.",
+            "price": 450000,
+            "location": "Metro City, FL",
+            "price_range": "$400,000 - $500,000",
+            "bedrooms": 1,
+            "amenities": ["Rooftop Terrace", "Open Floor Plan", "High Ceilings"]
+          },
+          {
+            "id": 1,
+            "images": [
+              "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468729432.jpg?k=7b2cefa314b7b8da9daa4b74fd9dee76bd4fb205ee789bf32493764f8ebee3bf&o=&hp=1",
+              "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fd2d90100679207.5f0e10ffc2a30.jpg",
+              "https://media-cdn.tripadvisor.com/media/vr-splice-j/09/ac/55/1c.jpg"
+            ],
+            "title": "Cozy Cottage",
+            "description": "A charming and cozy cottage located near the countryside.",
+            "price": 120000,
+            "location": "Countryville, TX",
+            "price_range": "$100,000 - $150,000",
+            "bedrooms": 3,
+            "amenities": ["Fireplace", "Garden", "Garage"]
+          },
+          {
+            "id": 2,
+            "images": [
+              "https://homeadore.com/wp-content/uploads/2019/02/010-modern-apartment-by-hi-light-architects.jpg",
+              "https://st.hzcdn.com/simgs/pictures/living-rooms/strata-nick-leith-smith-architecture-design-img~6e91508c0347ef05_14-4776-1-c5955c9.jpg",
+              "https://www.google.com/url?sa=i&url=https%3A%2F%2Farchello.com%2Fproject%2Fmodern-apartment-exterior-design&psig=AOvVaw31y8GRtBkgjyBgriDU69eX&ust=1724428149698000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJC0ts35iIgDFQAAAAAdAAAAABAZ"
+            ],
+            "title": "Modern Apartment",
+            "description": "A sleek, modern apartment in the heart of the city.",
+            "price": 250000,
+            "location": "Downtown, NY",
+            "price_range": "$200,000 - $300,000",
+            "bedrooms": 2,
+            "amenities": ["Gym", "Pool", "24/7 Security"]
+          },
+          {
+            "id": 3,
+            "images": [
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtxvrgJOj6I7cnXdEJ_hhjsCKM3fLkjPJ7w&s",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBoX_9Xgilop19JC8I3Ozomcq0P97DeVuvYA&s",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsZ7VL2fbEA0MSJhKz7rqRN3APCsTPhUS0PA&s"
+            ],
+            "title": "Luxury Villa",
+            "description": "A luxurious villa with stunning ocean views.",
+            "price": 750000,
+            "location": "Seaside, CA",
+            "price_range": "$700,000 - $800,000",
+            "bedrooms": 5,
+            "amenities": ["Infinity Pool", "Private Beach", "Home Theater"]
+          },
+          {
+            "id": 4,
+            "images": [
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuse7ze9PE8mlD99UQNJfXQpOdItoAp4O8LQ&s",
+              "https://st.hzcdn.com/simgs/pictures/kitchens/remodeled-suburban-family-home-interior-changes-home-design-and-consulting-img~5951b0090520b24e_4-1455-1-370852f.jpg",
+              "https://cf.bstatic.com/xdata/images/hotel/max1024x768/240194347.jpg?k=928d4b837759709044434f80854b03a640cc37936b0f58e8e3a26ce11a6019c1&o=&hp=1"
+            ],
+            "title": "Suburban Family Home",
+            "description": "A spacious family home in a quiet suburban neighborhood.",
+            "price": 350000,
+            "location": "Suburbia, IL",
+            "price_range": "$300,000 - $400,000",
+            "bedrooms": 4,
+            "amenities": ["Backyard", "Basement", "Playroom"]
+          },
+          {
+            "id": 5,
+            "images": [
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_zwRXjaNTHM7DfkBRWsxZm4y9homd_9bMA&s",
+              "https://st.hzcdn.com/simgs/pictures/dining-rooms/urban-loft-ck-interior-design-img~6d61140b0b5b9446_4-9783-1-62c3119.jpg",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxiHx4VopBC4yVozyW81StOhZp3xeRXOKKaA&s"
+            ],
+            "title": "Urban Loft",
+            "description": "A trendy loft with an industrial design in the city center.",
+            "price": 450000,
+            "location": "Metro City, FL",
+            "price_range": "$400,000 - $500,000",
+            "bedrooms": 1,
+            "amenities": ["Rooftop Terrace", "Open Floor Plan", "High Ceilings"]
+          },
+          {
+            "id": 1,
+            "images": [
+              "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468729432.jpg?k=7b2cefa314b7b8da9daa4b74fd9dee76bd4fb205ee789bf32493764f8ebee3bf&o=&hp=1",
+              "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fd2d90100679207.5f0e10ffc2a30.jpg",
+              "https://media-cdn.tripadvisor.com/media/vr-splice-j/09/ac/55/1c.jpg"
+            ],
+            "title": "Cozy Cottage",
+            "description": "A charming and cozy cottage located near the countryside.",
+            "price": 120000,
+            "location": "Countryville, TX",
+            "price_range": "$100,000 - $150,000",
+            "bedrooms": 3,
+            "amenities": ["Fireplace", "Garden", "Garage"]
+          },
+          {
+            "id": 2,
+            "images": [
+              "https://homeadore.com/wp-content/uploads/2019/02/010-modern-apartment-by-hi-light-architects.jpg",
+              "https://st.hzcdn.com/simgs/pictures/living-rooms/strata-nick-leith-smith-architecture-design-img~6e91508c0347ef05_14-4776-1-c5955c9.jpg",
+              "https://www.google.com/url?sa=i&url=https%3A%2F%2Farchello.com%2Fproject%2Fmodern-apartment-exterior-design&psig=AOvVaw31y8GRtBkgjyBgriDU69eX&ust=1724428149698000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJC0ts35iIgDFQAAAAAdAAAAABAZ"
+            ],
+            "title": "Modern Apartment",
+            "description": "A sleek, modern apartment in the heart of the city.",
+            "price": 250000,
+            "location": "Downtown, NY",
+            "price_range": "$200,000 - $300,000",
+            "bedrooms": 2,
+            "amenities": ["Gym", "Pool", "24/7 Security"]
+          },
+          {
+            "id": 3,
+            "images": [
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtxvrgJOj6I7cnXdEJ_hhjsCKM3fLkjPJ7w&s",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBoX_9Xgilop19JC8I3Ozomcq0P97DeVuvYA&s",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsZ7VL2fbEA0MSJhKz7rqRN3APCsTPhUS0PA&s"
+            ],
+            "title": "Luxury Villa",
+            "description": "A luxurious villa with stunning ocean views.",
+            "price": 750000,
+            "location": "Seaside, CA",
+            "price_range": "$700,000 - $800,000",
+            "bedrooms": 5,
+            "amenities": ["Infinity Pool", "Private Beach", "Home Theater"]
+          },
+          {
+            "id": 4,
+            "images": [
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuse7ze9PE8mlD99UQNJfXQpOdItoAp4O8LQ&s",
+              "https://st.hzcdn.com/simgs/pictures/kitchens/remodeled-suburban-family-home-interior-changes-home-design-and-consulting-img~5951b0090520b24e_4-1455-1-370852f.jpg",
+              "https://cf.bstatic.com/xdata/images/hotel/max1024x768/240194347.jpg?k=928d4b837759709044434f80854b03a640cc37936b0f58e8e3a26ce11a6019c1&o=&hp=1"
+            ],
+            "title": "Suburban Family Home",
+            "description": "A spacious family home in a quiet suburban neighborhood.",
+            "price": 350000,
+            "location": "Suburbia, IL",
+            "price_range": "$300,000 - $400,000",
+            "bedrooms": 4,
+            "amenities": ["Backyard", "Basement", "Playroom"]
+          },
+          {
+            "id": 5,
+            "images": [
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_zwRXjaNTHM7DfkBRWsxZm4y9homd_9bMA&s",
+              "https://st.hzcdn.com/simgs/pictures/dining-rooms/urban-loft-ck-interior-design-img~6d61140b0b5b9446_4-9783-1-62c3119.jpg",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxiHx4VopBC4yVozyW81StOhZp3xeRXOKKaA&s"
+            ],
+            "title": "Urban Loft",
+            "description": "A trendy loft with an industrial design in the city center.",
+            "price": 450000,
+            "location": "Metro City, FL",
+            "price_range": "$400,000 - $500,000",
+            "bedrooms": 1,
+            "amenities": ["Rooftop Terrace", "Open Floor Plan", "High Ceilings"]
+          }
+      ]
+      
+}
+  
